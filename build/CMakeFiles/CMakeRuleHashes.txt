@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+45c2e8c18e8a246dba0f914c103c1270 CMakeFiles/htslib
+5cab043841fae386394894285b05a994 CMakeFiles/htslib-complete
+b834a7d114691b4d78238e1dab77ac31 htslib-prefix/src/htslib-stamp/htslib-build
+e5561a12f16c2133cd90ba72169c4ba9 htslib-prefix/src/htslib-stamp/htslib-configure
+e6ba15f87df51b458f4060c81c5d4426 htslib-prefix/src/htslib-stamp/htslib-download
+7abdec43153eca230cf1e9dd8015e51a htslib-prefix/src/htslib-stamp/htslib-install
+2c7ab333db9972b92a22524c2f034c0c htslib-prefix/src/htslib-stamp/htslib-mkdir
+dd9d423d44ed5a3a5fa452a4106634e0 htslib-prefix/src/htslib-stamp/htslib-patch
+997d973c50a7203b9526a44fccda7e56 htslib-prefix/src/htslib-stamp/htslib-update

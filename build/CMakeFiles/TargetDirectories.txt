@@ -1,0 +1,8 @@
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/htslib.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/intron_matcher.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/edit_cache.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/rebuild_cache.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/list_install_components.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/install.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/install/local.dir
+/Users/chaokuan-hao/Documents/Projects/PR_SPLAM/src_intron_matcher/build/CMakeFiles/install/strip.dir
